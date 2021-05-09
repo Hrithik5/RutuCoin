@@ -28,4 +28,4 @@ In cryptography, SHA-1 (Secure Hash Algorithm 1) is a cryptographic hash functio
 1.	Bn.js –  https://www.npmjs.com/package/bn.js?activeTab=readme 
 2.	Crypto.js – https://www.npmjs.com/package/crypto-js 
 3.	Elliptic.js – https://www.npmjs.com/package/elliptic
-4.	Node.js(crypto) - https://nodejs.org/api/crypto.html
+4.	Node.js(crypto) - https://nodejs.org/api/crypto.html 
