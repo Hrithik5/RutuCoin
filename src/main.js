@@ -24,3 +24,4 @@ RutuCoin.minePendingTransactions(myWalletAddress);
 
 console.log('\n Balance of hrithik is ' + RutuCoin.getBalanceofAddress(myWalletAddress));
 
+console.log(RutuCoin);
