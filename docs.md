@@ -2,7 +2,7 @@
 
 ## Idea 
 
-RutuCoin is a simple project made to understand the concepts of how  blockchain Technology works and what are the core fundamental concepts.
+RutuCoin is a simple project made to understand the concepts of how  blockchain Technology works and what are the core fundamental concepts.    
 I have made this project because I was very interested in cryptocurrency and always wanted to know how things actually work. So I thought why not make my own coin. So I started to research how to implement blockchain. And finally I came up with RutuCoin.
 RutuCoin is a JavaScript implementation though it is originally done in solidity language who has similar syntax like JavaScript. Since I was doing for learning purpose I decided to stick with JavaScript only because I was comfortable with the language. Functionalities which I have added are block creations, making a chain of those block if blocks are valid, user can make transaction with the coins assigned to them on the mining a block. After any transactions the balance of the user is updated accordingly. Transactions is made using public and private key cryptography. And the keys are generated using Elliptic curve cryptography. After a successful transactions the block are added to the chain and the hash of the block is made using SHA256 algorithm. Also all the block contain digital signature of the owner which is calculated using the private key of the owner so other user cannot do any changes in others block. If user tries to manipulate the data in the block then the hash of the block is changed and it does not match with the hash stored in the next block, then the block is removed from the chain as it losses its credibility.
 
